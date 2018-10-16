@@ -89,7 +89,7 @@ class IphoneXS extends Component {
 							<h2 className="inline">Vật liệu đặc biệt.</h2>
 							<p>Kính bền nhất từng có trong điện thoại thông minh. Một kết thúc vàng mới đẹp, đạt được với một quá trình cấp nguyên tử. Dây đeo bằng thép không gỉ được gia công chính xác, bằng phẫu thuật. Và mức độ chống nước và bụi mới.</p>
 						</div>
-						<div classNa"material-block">
+						<div className="material-block">
 
 						</div>
 					</div>
