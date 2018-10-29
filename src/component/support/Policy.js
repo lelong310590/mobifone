@@ -47,7 +47,7 @@ class Policy extends Component {
 						phạm vi bảo hành của Apple sẽ được các Điểm bảo hành ủy quyền hỗ trợ dịch vụ mua đổi máy.
 						Quý khách liên hệ trực tiếp các Điểm bảo hành ủy quyền để biết thêm thông tin chi tiết.<br/>
 						4. Các trường hợp cần hỗ trợ về sử dụng iPhone, Apple ID, iCloud hoặc các phần mềm của sản
-						phẩm, Quý khách vui lòng liên hệ Tổng đài CSKH MobiFone 18001090 hoặc 9090.<br/>
+						phẩm, Quý khách vui lòng liên hệ Tổng đài CSKH MobiFone <b>18001127</b><br/>
 						<br/>
 							Danh sách các điểm bảo hành ủy quyền chính thức của Apple.
 							<table border="1" cellPadding="0" cellSpacing="0" dir="ltr" width="98%">
@@ -69,7 +69,7 @@ class Policy extends Component {
 									<td width="217">GIỜ LÀM VIỆC</td>
 								</tr>
 								<tr>
-									<td colSpan="6"><strong>Hồ Chí Minh và khu vực phía Nam</strong></td>
+									<td colSpan="6" className="text-center"><strong>Hồ Chí Minh và khu vực phía Nam</strong></td>
 								</tr>
 								<tr>
 									<td>1</td>
@@ -117,13 +117,44 @@ class Policy extends Component {
 									<td>HCM</td>
 									<td>Trung tâm bảo hành Thuận Mỹ</td>
 									<td>02 Thảo Điền, Phường Thảo Điền, Quận 2, HCM</td>
-									<td width="150">090.365.2326</td>
+									<td width="150">
+										090.365.2326<br/>
+										090.240.8455<br/>
+										0283-519-2477<br/>
+
+									</td>
 									<td width="217">Thứ 2 - thứ 6: 8h - 17h&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thứ 7: 8h
 										- 12h30'
 									</td>
 								</tr>
 								<tr>
-									<td rowSpan="2">7</td>
+									<td>7</td>
+									<td>HCM</td>
+									<td>Trung tâm bảo hành Thuận Mỹ</td>
+									<td>32 Cách Mạng Tháng Tám, phường 6, quận 3, HCM</td>
+									<td width="150">
+										090.365.2326<br/>
+										0283.930.8549<br/>
+										0283-930-8550<br/>
+									</td>
+									<td width="217">Thứ 2 - thứ 6: 8h - 17h
+									</td>
+								</tr>
+								<tr>
+									<td>8</td>
+									<td>HCM</td>
+									<td>Vietcomindo</td>
+									<td>141 Phan Đăng Lưu, phường 2, quận Phú Nhuận, HCM</td>
+									<td width="150">
+										0283.995.2955<br/>
+										090.953.3315<br/>
+									</td>
+									<td width="217">
+										Thứ 2 – CN: 8h30 – 20h30
+									</td>
+								</tr>
+								<tr>
+									<td rowSpan="2">9</td>
 									<td rowSpan="2">Bình Dương</td>
 									<td rowSpan="2">FPT services</td>
 									<td rowSpan="2" width="547">111, đường D, khu dân cư Chánh Nghĩa, Thành phố Thủ
@@ -139,7 +170,7 @@ class Policy extends Component {
 									<td width="217">Thứ 7: 8h - 12h</td>
 								</tr>
 								<tr>
-									<td rowSpan="2">8</td>
+									<td rowSpan="2">10</td>
 									<td rowSpan="2">Đồng Nai</td>
 									<td rowSpan="2">FPT services</td>
 									<td rowSpan="2">A3 Phan Chu Trinh, phường Quang Vinh, Thành phố Biên Hòa</td>
@@ -150,95 +181,210 @@ class Policy extends Component {
 									<td width="217">Thứ 7: 8h - 12h</td>
 								</tr>
 								<tr>
-									<td>9</td>
-									<td>Cần Thơ</td>
-									<td>Công ty TNHH Thương mại Dịch vụ Thuận Mỹ</td>
-									<td>117 Lý Tự Trọng, phường An Phú, quận Ninh Kiều, Cần Thơ</td>
-									<td width="150">090.365.2326</td>
-									<td width="217">Thứ 2 - thứ 6: 8h - 17h&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thứ 7: 8h
-										- 12h30'
+									<td rowSpan="2">11</td>
+									<td rowSpan="2">Cần Thơ</td>
+									<td rowSpan="2">Công ty TNHH Thương mại Dịch vụ Thuận Mỹ</td>
+									<td rowSpan="2">117 Lý Tự Trọng, phường An Phú, quận Ninh Kiều, Cần Thơ</td>
+									<td rowSpan="2" width="150">
+										090.365.2326<br/>
+										093.945.7457<br/>
+										0292-373-4415<br/>
+									</td>
+									<td width="217">Thứ 2 - thứ 6: 8h - 17</td>
+								</tr>
+								<tr>
+									<td width="217">Thứ 7: 8h - 12h30'</td>
+								</tr>
+								<tr>
+									<td rowSpan="2">12</td>
+									<td rowSpan="2">Nha Trang</td>
+									<td rowSpan="2">Iservice Nha Trang</td>
+									<td rowSpan="2">9B Lê Thánh Tôn, phường Lộc Thọ, Thành phố Nha Trang, tỉnh Khánh Hòa</td>
+									<td rowSpan="2" width="150">0258.224.7247</td>
+									<td width="217">Thứ 2 - thứ 6: 8h30' - 17h30'</td>
+								</tr>
+								<tr>
+									<td width="217">Thứ 7: 9h - 12h</td>
+								</tr>
+								<tr>
+									<td rowSpan="2">13</td>
+									<td rowSpan="2">Nha Trang</td>
+									<td rowSpan="2">FPT Services</td>
+									<td rowSpan="2">
+										20 Phan Chu Trinh, phường Vạn Thạnh, thành phố Nha Trang, tỉnh Khánh Hòa
+									</td>
+									<td rowSpan="2" width="150">0258.382.1123</td>
+									<td width="217">Thứ 2 - thứ 6: 8h30' - 17h30'</td>
+								</tr>
+								<tr>
+									<td width="217">Thứ 7: 8h - 12h</td>
+								</tr>
+								<tr>
+									<td>14</td>
+									<td>Vũng Tàu</td>
+									<td>
+										Thakral One Co., Ltd
+									</td>
+									<td>
+										16 G2	Nguyễn Thái Học, phường, thành phố Vũng Tàu
+									</td>
+									<td width="150">0254-381-9886</td>
+									<td width="217">
+										Thứ 2 – CN: 8h30 – 17h30
 									</td>
 								</tr>
 								<tr>
-									<td>10</td>
-									<td>Nha Trang</td>
-									<td>Iservice Nha Trang</td>
-									<td>9B Lê Thánh Tôn, phường Lộc Thọ, Thành phố Nha Trang, tỉnh Khánh Hòa</td>
-									<td width="150">058.224.7247</td>
-									<td width="217">Thứ 2 - thứ 6: 8h30' - 17h30' Thứ 7: 8h30' - 12h30'</td>
+									<td colSpan="6" className="text-center"><strong>Khu vực miền Trun</strong></td>
 								</tr>
 								<tr>
-									<td>&nbsp;</td>
-									<td>Khu vực miền Trung</td>
-									<td>&nbsp;</td>
-									<td>&nbsp;</td>
-									<td width="150">&nbsp;</td>
-									<td width="217">&nbsp;</td>
-								</tr>
-								<tr>
-									<td>11</td>
+									<td>15</td>
 									<td>Đà Nẵng</td>
 									<td>FPT services</td>
 									<td>73 Hàm Nghi, quận Thanh Khê, Đà Nẵng</td>
-									<td width="150">0511.356.2662</td>
+									<td width="150">0236.356.2662</td>
 									<td width="217">Thứ 2 - thứ 7: 8h - 18h</td>
 								</tr>
 								<tr>
-									<td>12</td>
+									<td>16</td>
 									<td>Đà Nẵng</td>
 									<td>Iservice Đà Nẵng</td>
 									<td width="547">Gian hàng 112A Tòa nhà Indochina Riverside, 74 Bạch Đằng, quận
 										Hải Châu, Đà Nẵng
 									</td>
-									<td width="150">0511.381.5468</td>
+									<td width="150">0236.381.5468</td>
 									<td width="217">Thứ 2 - thứ 6: 8h30' - 17h30' Thứ 7: 8h30' - 12h30'</td>
 								</tr>
 								<tr>
-									<td colSpan="6"><strong>Hà Nội và khu vực phía Bắc</strong></td>
+									<td colSpan="6" className="text-center"><strong>Hà Nội và khu vực phía Bắc</strong></td>
 								</tr>
 								<tr>
-									<td>13</td>
+									<td>17</td>
 									<td>Hà Nội</td>
 									<td>FPT services</td>
 									<td>Số 4, Yết Kiêu, quận Hoàn Kiếm, Hà Nội</td>
-									<td width="150">043.211.5274/ 047.300.0911 ext 48667</td>
+									<td width="150">
+										0243.211.5274/ 0247.300.0911 ext 48667
+									</td>
 									<td width="217">Thứ 2 - thứ 7: 8h - 18h</td>
 								</tr>
 								<tr>
-									<td>14</td>
+									<td rowSpan="2">18</td>
+									<td rowSpan="2">Hà Nội</td>
+									<td rowSpan="2">FPT services</td>
+									<td rowSpan="2">Số 7, Lô M1, Khu đô thị mới Yên Hòa, phường Yên Hòa, quận Cầu Giấy, Hà Nội</td>
+									<td rowSpan="2" width="150">
+										0247.300.0911
+									</td>
+									<td width="217">
+										Thứ 2 - thứ 6: 8h - 12h; 13h - 17h
+									</td>
+								</tr>
+								<tr>
+									<td width="217">
+										Thứ 7: 8h – 12h
+									</td>
+								</tr>
+								<tr>
+									<td>19</td>
 									<td>Hà Nội</td>
 									<td>iService Hà Nội</td>
 									<td>148 Nguyễn Khánh Toàn, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội</td>
-									<td width="150">042.249.2828</td>
+									<td width="150">0242.249.2828</td>
 									<td width="217">Thứ 2 - thứ 6: 8h30' - 17h30' Thứ 7: 8h30' - 12h30'</td>
 								</tr>
 								<tr>
-									<td>15</td>
+									<td>20</td>
 									<td>Hà Nội</td>
 									<td>Thakral One Co., Ltd</td>
 									<td>109 Mai Hắc Đế, quận Hai Bà Trưng, Hà Nội</td>
-									<td width="150">043.974.8990</td>
+									<td width="150">0243.974.8990</td>
 									<td width="217">Thứ 2 - thứ 7: 9h - 18h</td>
 								</tr>
 								<tr>
-									<td rowSpan="2">16</td>
+									<td>21</td>
+									<td>Hà Nội</td>
+									<td>Thakral One Co., Ltd</td>
+									<td>
+										Gian 128 – 129, tòa nhà Indochina Plaza, 241 Xuân Thủy, Cầu Giấy, Hà Nội
+									</td>
+									<td width="150">
+										0246.253.5025<br/>
+										0246.253.5021<br/>
+									</td>
+									<td width="217">
+										Thứ 2 - CN: 8h30 - 17h30
+									</td>
+								</tr>
+								<tr>
+									<td>22</td>
+									<td>Hà Nội</td>
+									<td>Vietcomindo</td>
+									<td>
+										389A – 391 Trường Chinh, phường Khương Trung, quận Thanh Xuân, Hà Nội
+									</td>
+									<td width="150">
+										0247.307.7977<br/>
+										0247.300.8789<br/>
+										090.303.3589<br/>
+									</td>
+									<td width="217">
+										Thứ 2 - CN: 8h30 - 17h30
+									</td>
+								</tr>
+								<tr>
+									<td rowSpan="2">23</td>
 									<td rowSpan="2">Hải Dương</td>
 									<td rowSpan="2">FPT services</td>
 									<td rowSpan="2">128 Điện Biên Phủ, phường Phạm Ngũ Lão, Hải Dương</td>
-									<td rowSpan="2" width="150">0320.385.4789</td>
+									<td rowSpan="2" width="150">0220.385.4789<br/>
+										0220.385.0345<br/>
+									</td>
 									<td width="217">Thứ 2 - thứ 6: 8h - 12h; 13h - 17h</td>
 								</tr>
 								<tr>
 									<td width="217">Thứ 7: 8h - 12h</td>
 								</tr>
 								<tr>
-									<td rowSpan="2">17</td>
-									<td rowSpan="2">Hưng Yên</td>
-									<td rowSpan="2">FPT services</td>
-									<td rowSpan="2">14, đường 196, thị trấn Bần Yên Nhân, huyện Mỹ Hào, Hưng Yên
+									<td>24</td>
+									<td>
+										Thanh Hóa
 									</td>
-									<td rowSpan="2" width="150">0321.374.2788</td>
-									<td width="217">Thứ 2 - thứ 6: 8h - 12h; 13h - 17h</td>
+									<td>FPT services</td>
+									<td>
+										9 Tô Vĩnh Diện, phường Điện Biên, thành phố Thanh Hóa
+									</td>
+									<td width="150">0237.388.8911
+									</td>
+									<td width="217">Thứ 2 – Thứ 7: 8h - 12h; 13h30 - 17h30</td>
+								</tr>
+								<tr>
+									<td rowSpan="2">25</td>
+									<td rowSpan="2">
+										Nghệ An
+									</td>
+									<td rowSpan="2">FPT services</td>
+									<td rowSpan="2">
+										46 Nguyễn Thị Minh Khai, phường Hưng Bình, thành phố Vinh, Nghệ An
+									</td>
+									<td rowSpan="2" width="150">0238.876.7368
+									</td>
+									<td width="217">Thứ 2 - thứ 6: 8h - 17h</td>
+								</tr>
+								<tr>
+									<td width="217">Thứ 7: 8h - 12h</td>
+								</tr>
+								<tr>
+									<td rowSpan="2">26</td>
+									<td rowSpan="2">
+										Hải Phòng
+									</td>
+									<td rowSpan="2">FPT services</td>
+									<td rowSpan="2">
+										106 – 108 Tôn Đức Thắng, phường An Dương, quận Lê Chân, Hải Phòng
+									</td>
+									<td rowSpan="2" width="150">0225-383-5845
+									</td>
+									<td width="217">Thứ 2 - thứ 6: 8h - 17h</td>
 								</tr>
 								<tr>
 									<td width="217">Thứ 7: 8h - 12h</td>

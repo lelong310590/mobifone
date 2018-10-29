@@ -1,8 +1,8 @@
 import React, {Component, Fragment} from 'react';
 import Video from "../modal/Video";
-import Display from "../parallax/Display";
 
-class IphoneXS extends Component {
+class IPhoneXr extends Component {
+
 	constructor(props) {
 		super(props);
 		this.state = {
@@ -19,30 +19,23 @@ class IphoneXS extends Component {
 	render() {
 		return (
 			<Fragment>
-				<section className="section-hero">
+				<section className="section-hero iphonexr">
 					<div className="container">
-						<div className="hero-lockup">
-							<video src="lib/images/7c96e9f2-254a-4048-a497-69d7753a8313.mp4" muted playsInline
-							       autoPlay></video>
-						</div>
 						<div className="copy text-center">
 							<div className="logotype">
-								<img src="lib/images/iphonexs_logo_large.png" alt=""
+								<img src="lib/images/hero_logo_large.svg" alt=""
 								     className="img-responsive center-block"/>
 							</div>
-							<p className="tagline">Màn hình lớn hơn<br/> phiên bản trước</p>
-							<p className="intro">
-								Super Retina với hai kích cỡ - màn hình lớn nhất từng có trên iPhone. ID khuôn mặt nhanh
-								hơn.
-								Chip thông minh nhất, mạnh nhất trong điện thoại thông minh. Và một hệ thống camera hai
-								bước đột phá.
-								iPhone XS là mọi thứ bạn yêu thích về iPhone. Đưa đến cùng cực.
-							</p>
+							<p className="tagline">Rực rỡ. Bằng mọi cách.</p>
+						</div>
+
+						<div className="copy text-center small-text center-block">
+							<p>Màn hình Retina hoàn toàn mới - màn hình LCD tiên tiến nhất trong ngành. ID khuôn mặt nhanh hơn. Chip thông minh nhất, mạnh nhất trong điện thoại thông minh. Và một hệ thống camera đột phá với Kiểm soát Độ sâu. iPhone XR. Nó đẹp bất kỳ cách nào bạn nhìn vào nó.</p>
 						</div>
 					</div>
 				</section>
 
-				<section className="section-design-film">
+				<section className="section-design-film design-film-xr">
 					<a className="block-link text-center" onClick={() => this.openModal(true)}>
 						<div className="copy-wrapper">
 							<h2 className="film-headline">iPhone thế hệ mới</h2>
@@ -52,17 +45,17 @@ class IphoneXS extends Component {
 				</section>
 
 				{this.state.openModal &&
-					<Video
-						closeModal={this.openModal}
-						url={'https://www.apple.com/105/media/us/iphone-xs/2018/674b340a-40f1-4156-bbea-00f386459d3c/films/design/iphone-xs-design-tpl-cc-us-2018_1280x720h.mp4'}
-					/>
+				<Video
+					closeModal={this.openModal}
+					url={'https://www.apple.com/105/media/us/iphone-xr/2018/e7f073a7-e8ae-4c18-937b-91d8939fcadd/films/design/iphone-xr-design-tpl-cc-us-2018_1280x720h.mp4'}
+				/>
 				}
 
 				<section className="section-display">
 					<div className="container">
-						<div className="texture-1">
-							<h2 className="inline">Super Retina. Màn hình lớn hơn.</h2>
-							<p>Màn hình OLED tùy chỉnh trên iPhone XS mang lại màu sắc chính xác nhất trong ngành, HDR và màu đen thực. Và iPhone XS Max có màn hình lớn nhất từ trước tới nay trên iPhone.</p>
+						<div className="textture-xr">
+							<h2 className="inline">Giới thiệu Liquid Retina. </h2>
+							<p>Màn hình mới trên iPhone XR là màn hình LCD tiên tiến nhất trong ngành. Một thiết kế đèn nền sáng tạo cho phép màn hình kéo dài vào các góc. Vì vậy, bạn thấy màu sắc thực sự sống từ một cạnh đẹp đến khác.</p>
 						</div>
 						<div className="compare-display">
 							<h2 className="text-center">Màn hình tạo nên sự khác biệt.</h2>
@@ -149,8 +142,8 @@ class IphoneXS extends Component {
 					</div>
 				</section>
 			</Fragment>
-		)
+		);
 	}
 }
 
-export default IphoneXS;
+export default IPhoneXr;

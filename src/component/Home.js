@@ -22,7 +22,7 @@ class Home extends Component {
 						<img src="lib/images/iphonexr_logo_large.png" alt="" className="img-responsive center-block home-product-title"/>
 						<h2 className="home-product-hero">Rực rỡ sắc màu.</h2>
 						<div className="home-product-nav">
-							<Link to={'/iphonexs'}>Tìm hiểu <i className="fas fa-angle-right"></i></Link>
+							<Link to={'/iphonexr'}>Tìm hiểu <i className="fas fa-angle-right"></i></Link>
 							<Link to={'/package'}>Đặt mua <i className="fas fa-angle-right"></i></Link>
 						</div>
 						<img src="lib/images/hero-iphone-xr_large.jpg" alt="" className="img-responsive hero-image center-block"/>
