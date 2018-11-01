@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import Price from "./Price";
-import PricePackage from "./PricePackage";
+import PriceTabs from "./PriceTabs";
 
 class Package extends Component {
 	render() {
@@ -38,7 +38,7 @@ class Package extends Component {
 
 					<Price/>
 
-					<PricePackage/>
+					<PriceTabs/>
 
 				</div>
 			</div>
