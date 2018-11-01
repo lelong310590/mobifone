@@ -33,12 +33,12 @@ class Package extends Component {
 					<h4 className="text-center text-uppercase">GIÁ BÁN MÁY VÀ MỨC ĐẶT CỌC</h4>
 					<p className="text-center">(Ban hành kèm theo công văn số             /MOBIFONE-KHCN ngày   /10/2018)</p>
 
-					<PricePackage/>
-
 					<p><b>*Bộ sản phẩm gồm có:</b></p>
 					<p>01 điện thoại iPhone:</p>
 
 					<Price/>
+
+					<PricePackage/>
 
 					<p>01 BHM trả trước tài khoản 0đ: 50.000đ.</p>
 					<p>240.000đ MobiEZ nạp sẵn vào tài khoản của khách hàng để đăng ký gói cước M12 chu kỳ dành cho TBTT (giao dịch viên hỗ trợ khách hàng đăng ký): 240.000đ.</p>
