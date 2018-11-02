@@ -246,9 +246,6 @@ class PriceTabs extends Component {
 				</Tabs>
 				<p><i>Khách hàng tham gia chương trình mua máy kèm bộ hòa mạng trả trước và đăng ký gói Sub599/ Sub999/Sub1399 12 tháng/18 tháng tương ứng.</i></p>
 				<br/>
-				<br/>
-				<br/>
-				<br/>
 				<p>2. <b>Giá bán dành cho thuê bao trả sau hiện hữu mua máy kèm gói cước</b></p>
 				<Tabs defaultActiveKey={1} id="uncontrolled-tab-example">
 					<Tab eventKey={1} title="iPhone XS">
