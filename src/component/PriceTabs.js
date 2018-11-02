@@ -244,7 +244,7 @@ class PriceTabs extends Component {
 						</div>
 					</Tab>
 				</Tabs>
-				<b>Khách hàng tham gia chương trình mua máy kèm bộ hòa mạng trả trước và đăng ký gói Sub599/ Sub999/Sub1399 12 tháng/18 tháng tương ứng.</b>
+				<p><i>Khách hàng tham gia chương trình mua máy kèm bộ hòa mạng trả trước và đăng ký gói Sub599/ Sub999/Sub1399 12 tháng/18 tháng tương ứng.</i></p>
 				<br/>
 				<br/>
 				<br/>
@@ -492,7 +492,7 @@ class PriceTabs extends Component {
 						</div>
 					</Tab>
 				</Tabs>
-				<b>Khách hàng tham gia chương trình mua máy kèm gói cước cam kết Sub699/ Sub1099/ Sub1499 trong 12 tháng/ 18 tháng tương ứng.</b>
+				<p><i>Khách hàng tham gia chương trình mua máy kèm gói cước cam kết Sub699/ Sub1099/ Sub1499 trong 12 tháng/ 18 tháng tương ứng.</i></p>
 				<br/>
 				<br/>
 			</Fragment>

@@ -97,6 +97,7 @@ class Price extends Component {
 				</div>
 				<p>01 BHM trả trước tài khoản 0đ: 50.000đ.</p>
 				<p>240.000đ MobiEZ nạp sẵn vào tài khoản của khách hàng để đăng ký gói cước M12 chu kỳ dành cho TBTT (giao dịch viên hỗ trợ khách hàng đăng ký): 240.000đ.</p>
+				<br/>
 			</Fragment>
 
 		);
